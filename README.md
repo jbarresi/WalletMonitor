@@ -34,5 +34,5 @@ Some things to note about the config file:
 
 ## Acknolwedgements
 I need to give the following call outs for both the idea and technological contributions as they are well deserved:
-- hahaschool#0933 from the Big Head Club discord, his original watcher was an inspiration for mine. His GitHub is: https://gist.github.com/hahaschool
+- hahaschool#0933 from the Big Head Club discord, his original watcher was an inspiration for mine. His GitHub is: https://github.com/hahaschool
 - OpenSea fot their NFT API, this wouldn't actually work if it wasn't for their API existing. It lives here: https://docs.opensea.io/reference/api-overview1
