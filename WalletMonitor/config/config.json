@@ -1,0 +1,5 @@
+{
+  "walletsToWatch": [""],
+  "checkIntervalInSeconds": 600,
+  "notificationSound": "resources/hey-ringtone.wav"
+}
