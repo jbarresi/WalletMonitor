@@ -7,7 +7,9 @@ This utilizes the OpenSea NFT API (Available here: https://docs.opensea.io/refer
 
 This is provided as is with no promise of warranty or commitment to bug fixes. 
 
-***Note:*** There is a runtime warning that will appear every time you restart the application. This is a known issue with the PyDub library at the time of writing this application. No idea if it will ever be fixed.
+***Note:*** 
+- There is a runtime warning that will appear every time you restart the application. This is a known issue with the PyDub library at the time of writing this application. No idea if it will ever be fixed.
+- There is also a chance the application will crash in the event of losing network connection (not that the application will help you without an internet connection anyways).
 
 ## Prerequisites
 In order to run this you will need the following modules installed:
